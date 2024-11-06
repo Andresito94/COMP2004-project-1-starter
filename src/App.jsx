@@ -5,7 +5,7 @@ import NavBar from "./Components/NavBar";
 function App() {
   return (
     <div id="root">
-      <NavBar username="Wayne" />
+      <NavBar username="Andy, mucho taco" />
       <GroceriesAppContainer />
     </div>
   );
